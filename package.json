@@ -1,0 +1,22 @@
+{
+  "name": "website-generator",
+  "title": "Website Generator",
+  "version": "1.0.0",
+  "description": "Simple and clean website generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "website": "./index.js"
+  },
+  "author": "Federico Vitale",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "clear": "^0.0.1",
+    "colors": "^1.1.2",
+    "commander": "^2.9.0",
+    "fs": "^0.0.1-security"
+  }
+}
