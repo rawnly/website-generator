@@ -1,7 +1,10 @@
 # Website Generator
-![example](img/generator.gif)
+![](img/generator.gif)
+> In this gif the command is `gen` to avoid conflicts with alias
+
 ## Installation
-To install _website-generator_ you must use **npm**
+To install _web-generator_ you must use **npm** 
+
 ```bash
 	npm install -g website-generator
 ```
@@ -16,12 +19,12 @@ Enter in your project folder, and type the following
 After this you shoud be able to use **gulp-cli**, have a live preview of the website and auto-compile **coffeescript** and **sass** into `dist/css` and `dist/js`. 
 
 ### Note
-1. Browser sync is setted to preview the **index.html** in `./dist` directory.
-2. The Gulpfile [gist](https://gist.github.com/Rawnly/2ef55dfe57f2adbf065b7aa2b638ae9e) used for template.
+Browser sync is setted to preview the **index.html** in `./dist` directory.
+
 
 
 ## LICENSE ([MIT](github.com/Rawnly/website-generator/blob/master/LICENSE.md))
-
+<pre>
 The MIT License (MIT)
 
 Copyright (c) 2016 Federico Vitale
@@ -31,3 +34,4 @@ Permission is hereby granted, free of charge, to any person obtaining a copy of 
 The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+</pre>
