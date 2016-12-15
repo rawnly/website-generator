@@ -1,6 +1,7 @@
 # Website Generator
 ![](img/generator.gif)
 > In this gif the command is `gen` to avoid conflicts with alias
+
 ## Installation
 To install _web-generator_ you must use **npm** 
 
