@@ -1,7 +1,7 @@
 # Website Generator
 ![](img/generator.gif)
 ## Installation
-To install _web-generator_ hust use **npm** 
+To install _web-generator_ you must use **npm** 
 
 ```bash
 	npm install -g website-generator
