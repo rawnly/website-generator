@@ -20,7 +20,7 @@ After this you shoud be able to use **gulp-cli**, have a live preview of the web
 2. The Gulpfile [gist](https://gist.github.com/Rawnly/2ef55dfe57f2adbf065b7aa2b638ae9e) used for template.
 
 
-## LICENSE ([MIT](github.com/Rawnly/website-generator/blob/master/LICENSE.md))
+## LICENSE ([MIT](https://github.com/Rawnly/website-generator/blob/master/LICENSE.md))
 
 The MIT License (MIT)
 
